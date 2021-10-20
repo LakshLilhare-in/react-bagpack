@@ -1,0 +1,21 @@
+{
+  "name": "react-bagpack",
+  "version": "1.0.0",
+  "description": "React BagPack. A pack for hooks, basic components",
+  "main": "app.js",
+  "keywords": [
+    "components",
+    "react",
+    "easy"
+  ],
+  "author": "Laksh Lilhare",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LakshLilhare-in/react-bagpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LakshLilhare-in/react-bagpack/issues"
+  },
+  "homepage": "https://github.com/LakshLilhare-in/react-bagpack#readme"
+}
